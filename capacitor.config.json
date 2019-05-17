@@ -1,0 +1,7 @@
+{
+  "appId": "ionic.example.com",
+  "appName": "ionic-calc",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
